@@ -6,7 +6,9 @@
 
 ### Fork²
 
-Target of this fork : Full automation of build (with docker/vagrant)
+Aims of this fork :
+  - Full automation of build (with docker/vagrant)
+  - Targeting old systems (debian7 ...)
 
 ### Soft Fork
 
