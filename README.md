@@ -4,6 +4,10 @@
 
 ## Fork Notes
 
+### Fork²
+
+Target of this fork : Full automation of build (with docker/vagrant)
+
 ### Soft Fork
 
 This is a soft fork of Pattern's OpenCV package at https://github.com/PatternConsulting/opencv.
